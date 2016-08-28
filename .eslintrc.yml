@@ -1,0 +1,6 @@
+---
+extends: coveo
+env:
+  node: true
+rules:
+  arrow-body-style: 0
